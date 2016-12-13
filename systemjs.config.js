@@ -2,7 +2,7 @@ System.config({
     transpiler: 'typescript',
     typescriptOptions: {
         emitDecoratorMetadata: true,
-        target: "ES5",
+        target: "ES6",
         module: "commonjs"
     },
     map: {
